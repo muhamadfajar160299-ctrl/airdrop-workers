@@ -1,44 +1,20 @@
 {
  "errors": [],
- "new_green": [],
- "new_unverified": [
+ "new_green": [
   {
-   "address": "0x368d6732b9b17e3ab08544ea14180ad3a6101131",
-   "label": "unverified",
-   "name": "0x368d6732b9b17e3ab08544ea14180ad3a6101131",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x585723d33a9e26f8289db92b9ca898d7211457bd",
-   "label": "unverified",
-   "name": "0x585723d33a9e26f8289db92b9ca898d7211457bd",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x84d82e933d7781fe11245e7bbd3eb23dbb963666",
-   "label": "unverified",
-   "name": "0x84d82e933d7781fe11245e7bbd3eb23dbb963666",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xbcdd900857e5d8cc87c45764e61373ca1992e4d4",
-   "label": "unverified",
-   "name": "0xbcdd900857e5d8cc87c45764e61373ca1992e4d4",
-   "source": "alphapedia_en"
+   "address": "0xfcadfb7cc85b6ea540d64e4f4b9f162e630f55c0",
+   "label": "hijau",
+   "name": "Agent Mint Pass",
+   "source": "mintradar"
   }
  ],
- "skipped": [
+ "new_unverified": [
   {
-   "address": "0x5b63bd45e61a2e6540548c3509b598b6384206c5",
-   "name": "AgentGate Pass",
-   "reason": "label kuning",
-   "source": "mintradar"
-  },
-  {
-   "address": "0x42c9ed912025df33ca1676aad4651cdded3f09ed",
-   "name": "AgentGate Badge",
-   "reason": "label kuning",
-   "source": "mintradar"
+   "address": "0x7d4e1d63b183062345f59fddb21614b2c8f15f2d",
+   "label": "unverified",
+   "name": "0x7d4e1d63b183062345f59fddb21614b2c8f15f2d",
+   "source": "agenticmint"
   }
- ]
+ ],
+ "skipped": []
 }
