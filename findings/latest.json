@@ -1,6 +1,13 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [],
+ "new_unverified": [
+  {
+   "address": "0x0c458d61848ef7ffd753fbdd1179a7053a60661f",
+   "label": "unverified",
+   "name": "0x0c458d61848ef7ffd753fbdd1179a7053a60661f",
+   "source": "alphapedia_en"
+  }
+ ],
  "skipped": []
 }
