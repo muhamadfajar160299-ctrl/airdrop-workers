@@ -1,20 +1,6 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [
-  {
-   "address": "0xafae0bf373ad87e88555afe1605111f66c99062c",
-   "label": "unverified",
-   "name": "0xafae0bf373ad87e88555afe1605111f66c99062c",
-   "source": "alphapedia_en"
-  }
- ],
- "skipped": [
-  {
-   "address": "0x7df7fd03bd5b7a024b1341849aad14758f12a4a8",
-   "name": "DinoAgent",
-   "reason": "label kuning",
-   "source": "mintradar"
-  }
- ]
+ "new_unverified": [],
+ "skipped": []
 }
