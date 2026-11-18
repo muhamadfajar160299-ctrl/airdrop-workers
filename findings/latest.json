@@ -1,13 +1,13 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [
+ "new_unverified": [],
+ "skipped": [
   {
-   "address": "0x0f214ef91aff6cd79d6740f52ec69bf0360dab1a",
-   "label": "unverified",
-   "name": "0x0f214ef91aff6cd79d6740f52ec69bf0360dab1a",
-   "source": "alphapedia_en"
+   "address": "0xfe4e0b3ab48bb988793f42ac90bec42da706958d",
+   "name": "Agent Pioneer Badge",
+   "reason": "label merah",
+   "source": "mintradar"
   }
- ],
- "skipped": []
+ ]
 }
