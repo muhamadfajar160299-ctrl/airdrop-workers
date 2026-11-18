@@ -1,29 +1,18 @@
 {
  "errors": [],
- "new_green": [],
+ "new_green": [
+  {
+   "address": "0x26ad277193ff31bd086a47bf7b1d25a93573c989",
+   "label": "hijau",
+   "name": "AgentQuest Badge",
+   "source": "mintradar"
+  }
+ ],
  "new_unverified": [
   {
-   "address": "0x0c9242825016a1bdc148a48a3e6cc131ed3319af",
+   "address": "0x5191b13fc0e90026942da71d619d64f4289ddc69",
    "label": "unverified",
-   "name": "0x0c9242825016a1bdc148a48a3e6cc131ed3319af",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x1dd8740ffca0be3caac3b4a3eb41fdff506e38a9",
-   "label": "unverified",
-   "name": "0x1dd8740ffca0be3caac3b4a3eb41fdff506e38a9",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x4a9cae53d9d07c616ee328a406b285e70c98cbf7",
-   "label": "unverified",
-   "name": "0x4a9cae53d9d07c616ee328a406b285e70c98cbf7",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x4dc814d860e1cf1c7bf243d5c41390fe49059761",
-   "label": "unverified",
-   "name": "0x4dc814d860e1cf1c7bf243d5c41390fe49059761",
+   "name": "0x5191b13fc0e90026942da71d619d64f4289ddc69",
    "source": "alphapedia_en"
   }
  ],
