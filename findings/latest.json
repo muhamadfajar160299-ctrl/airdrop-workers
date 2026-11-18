@@ -1,20 +1,13 @@
 {
  "errors": [],
- "new_green": [
+ "new_green": [],
+ "new_unverified": [],
+ "skipped": [
   {
-   "address": "0xfcadfb7cc85b6ea540d64e4f4b9f162e630f55c0",
-   "label": "hijau",
-   "name": "Agent Mint Pass",
+   "address": "0x25e75fd717c80bd90db6c980637a3eb993f0ed4a",
+   "name": "GEM",
+   "reason": "label merah",
    "source": "mintradar"
   }
- ],
- "new_unverified": [
-  {
-   "address": "0x7d4e1d63b183062345f59fddb21614b2c8f15f2d",
-   "label": "unverified",
-   "name": "0x7d4e1d63b183062345f59fddb21614b2c8f15f2d",
-   "source": "agenticmint"
-  }
- ],
- "skipped": []
+ ]
 }
