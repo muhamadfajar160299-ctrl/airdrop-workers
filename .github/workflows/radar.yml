@@ -1,0 +1,64 @@
+name: Free-mint radar
+
+# Plan B: screening free-mint BSC tanpa kartu, tanpa server sendiri.
+# Repo PUBLIC = GitHub Actions gratis tanpa batas menit. Tanpa secrets.
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  screen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Screen sources
+        id: screen
+        run: python3 scripts/radar_screen.py
+
+      - name: Commit state
+        run: |
+          git config user.name "airdrop-workers-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state/seen.json findings/latest.json
+          git diff --cached --quiet || git commit -m "radar: update seen state [skip ci]"
+          git push
+
+      - name: Open issue for green candidates
+        if: steps.screen.outputs.new_green_count != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create radar --description "Radar free-mint" --color 0E8A16 2>/dev/null || true
+          python3 - <<'PYEOF'
+          import json, subprocess
+          findings = json.load(open("findings/latest.json"))
+          for g in findings.get("new_green", []):
+              addr = g["address"]
+              existing = subprocess.run(
+                  ["gh", "issue", "list", "--state", "open", "--search", addr, "--json", "number"],
+                  capture_output=True, text=True)
+              if existing.stdout.strip() not in ("", "[]"):
+                  print("issue already open for", addr)
+                  continue
+              body = (
+                  "Kandidat free mint label HIJAU dari radar.\n\n"
+                  f"- Nama: {g['name']}\n- Contract: `{addr}`\n- Sumber: {g['source']}\n"
+                  "- Label MintRadar: hijau, kontrak terverifikasi ada bytecode on-chain.\n\n"
+                  "Belum diverifikasi penuh - Lux cek on-chain (mint buka? gratis? supply?) sebelum lapor ke Larisha.\n"
+                  f"BscScan: https://bscscan.com/address/{addr}\n"
+              )
+              subprocess.run(["gh", "issue", "create", "--title",
+                              f"[radar] {g['name']} ({addr[:10]}...)",
+                              "--body", body, "--label", "radar"], check=True)
+              print("issue created for", addr)
+          PYEOF
