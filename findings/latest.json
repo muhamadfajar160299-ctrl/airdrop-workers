@@ -2,5 +2,18 @@
  "errors": [],
  "new_green": [],
  "new_unverified": [],
- "skipped": []
+ "skipped": [
+  {
+   "address": "0x6a3e0366222271030596cf1d98fc61a309be1df8",
+   "name": "Agent Space",
+   "reason": "label kuning",
+   "source": "mintradar"
+  },
+  {
+   "address": "0xc22d29a0411b2b76d723e5f9fdeb5b7cc509af48",
+   "name": "Ronagent",
+   "reason": "label kuning",
+   "source": "alphapedia_en"
+  }
+ ]
 }
