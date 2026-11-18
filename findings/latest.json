@@ -1,13 +1,31 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [],
- "skipped": [
+ "new_unverified": [
   {
-   "address": "0x25e75fd717c80bd90db6c980637a3eb993f0ed4a",
-   "name": "GEM",
-   "reason": "label merah",
-   "source": "mintradar"
+   "address": "0x0c9242825016a1bdc148a48a3e6cc131ed3319af",
+   "label": "unverified",
+   "name": "0x0c9242825016a1bdc148a48a3e6cc131ed3319af",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0x1dd8740ffca0be3caac3b4a3eb41fdff506e38a9",
+   "label": "unverified",
+   "name": "0x1dd8740ffca0be3caac3b4a3eb41fdff506e38a9",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0x4a9cae53d9d07c616ee328a406b285e70c98cbf7",
+   "label": "unverified",
+   "name": "0x4a9cae53d9d07c616ee328a406b285e70c98cbf7",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0x4dc814d860e1cf1c7bf243d5c41390fe49059761",
+   "label": "unverified",
+   "name": "0x4dc814d860e1cf1c7bf243d5c41390fe49059761",
+   "source": "alphapedia_en"
   }
- ]
+ ],
+ "skipped": []
 }
