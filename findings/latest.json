@@ -3,28 +3,10 @@
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0x00c5579f105fe340ee197e9af103e06b33ffea3a",
+   "address": "0x80cabb78d05205bb0f7c395ec6326bf1890e7a00",
    "label": "unverified",
-   "name": "0x00c5579f105fe340ee197e9af103e06b33ffea3a",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x79f55daa8a3cf2eb76ee40e26ff6e244a4cc1ed4",
-   "label": "unverified",
-   "name": "0x79f55daa8a3cf2eb76ee40e26ff6e244a4cc1ed4",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x80f6ef7e09c0e30be9b08d9c707890fad5d422b8",
-   "label": "unverified",
-   "name": "0x80f6ef7e09c0e30be9b08d9c707890fad5d422b8",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x95c0900bd82532254d92c86e096045d32faa6b0c",
-   "label": "unverified",
-   "name": "0x95c0900bd82532254d92c86e096045d32faa6b0c",
-   "source": "alphapedia_en"
+   "name": "0x80cabb78d05205bb0f7c395ec6326bf1890e7a00",
+   "source": "alpha_board"
   }
  ],
  "skipped": []
