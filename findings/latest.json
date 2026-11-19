@@ -1,5 +1,7 @@
 {
- "errors": [],
+ "errors": [
+  "mintradar index: curl exit 28: curl: (28) Operation timed out after 25002 milliseconds with 0 bytes received"
+ ],
  "new_green": [],
  "new_unverified": [],
  "skipped": []
