@@ -1,20 +1,25 @@
 {
  "errors": [],
- "new_green": [
+ "new_green": [],
+ "new_unverified": [
   {
-   "address": "0x2ac941b05042599edcc96cb7a3b4937102290ca7",
-   "label": "hijau",
-   "name": "Puzzle Arena Solve",
-   "source": "mintradar"
+   "address": "0x16de59897fdee7f34377c2302dc4e9fdb12168c2",
+   "label": "unverified",
+   "name": "0x16de59897fdee7f34377c2302dc4e9fdb12168c2",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0x2538add82670648e372fbc6603c44b18cbdaf92e",
+   "label": "unverified",
+   "name": "0x2538add82670648e372fbc6603c44b18cbdaf92e",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0x58824007d295283e2f3668374b0a61963c69d4eb",
+   "label": "unverified",
+   "name": "0x58824007d295283e2f3668374b0a61963c69d4eb",
+   "source": "alphapedia_en"
   }
  ],
- "new_unverified": [],
- "skipped": [
-  {
-   "address": "0x126af9585953004cbb9c5a0b37fc5616dd5f3b43",
-   "name": "AgentBadge",
-   "reason": "label kuning",
-   "source": "mintradar"
-  }
- ]
+ "skipped": []
 }
