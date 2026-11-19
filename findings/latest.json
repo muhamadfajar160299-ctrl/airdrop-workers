@@ -3,17 +3,29 @@
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0xbcf46551e08e36178a4421d282046a3e21ac2323",
+   "address": "0x2cab70c426f92c0d08aeb7cfe41b27b746feeb09",
    "label": "unverified",
-   "name": "0xbcf46551e08e36178a4421d282046a3e21ac2323",
+   "name": "0x2cab70c426f92c0d08aeb7cfe41b27b746feeb09",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0x99d419890a9aa9f8bad54473d9942edd7a30e130",
+   "label": "unverified",
+   "name": "0x99d419890a9aa9f8bad54473d9942edd7a30e130",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0xe69708358ec640c0bc86980893a4afd01aff6f9b",
+   "label": "unverified",
+   "name": "0xe69708358ec640c0bc86980893a4afd01aff6f9b",
    "source": "alphapedia_en"
   }
  ],
  "skipped": [
   {
-   "address": "0xd7aa23e8a90542c7eb090d99496305a8855ff248",
-   "name": "MARIO",
-   "reason": "label kuning",
+   "address": "0x8434d0ea4521471c25f94aaa707b33d95486c2e7",
+   "name": "agentGTA Arms",
+   "reason": "label merah",
    "source": "mintradar"
   }
  ]
