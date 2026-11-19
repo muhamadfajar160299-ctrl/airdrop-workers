@@ -2,5 +2,12 @@
  "errors": [],
  "new_green": [],
  "new_unverified": [],
- "skipped": []
+ "skipped": [
+  {
+   "address": "0xffc521d504f20bd7bcd0871b9b39ba9501f5db2c",
+   "name": "Talvio Dot Robot",
+   "reason": "label kuning",
+   "source": "mintradar"
+  }
+ ]
 }
