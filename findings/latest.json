@@ -1,46 +1,6 @@
 {
- "errors": [
-  "agenticmint: curl exit 28: curl: (28) Operation timed out after 25001 milliseconds with 0 bytes received"
- ],
+ "errors": [],
  "new_green": [],
- "new_unverified": [
-  {
-   "address": "0x0a873c07f4e6e573ed6bd20e636c5633eb98ec1a",
-   "label": "unverified",
-   "name": "0x0a873c07f4e6e573ed6bd20e636c5633eb98ec1a",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xa4384a0da4d170b58aeff9ab92c96e13f1799ad6",
-   "label": "unverified",
-   "name": "0xa4384a0da4d170b58aeff9ab92c96e13f1799ad6",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xc5dc1f2aa1d962789f1a06fdb199a25c038d7777",
-   "label": "unverified",
-   "name": "0xc5dc1f2aa1d962789f1a06fdb199a25c038d7777",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xd9c88dd9a7f8fba0b0ed24ac1a703e13144382b4",
-   "label": "unverified",
-   "name": "0xd9c88dd9a7f8fba0b0ed24ac1a703e13144382b4",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x7777c57ff7dc441c1715b2e36fa581c48b782222",
-   "label": "unverified",
-   "name": "0x7777c57ff7dc441c1715b2e36fa581c48b782222",
-   "source": "alphapedia_zh"
-  }
- ],
- "skipped": [
-  {
-   "address": "0x94dea5b614b8cb539efc63ba7c652286169a31d9",
-   "name": "OUPE Cards",
-   "reason": "label merah",
-   "source": "mintradar"
-  }
- ]
+ "new_unverified": [],
+ "skipped": []
 }
