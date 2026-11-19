@@ -1,13 +1,13 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [
+ "new_unverified": [],
+ "skipped": [
   {
-   "address": "0x2d9943d20930ec59d7b432a0cf30521f8c0cc016",
-   "label": "unverified",
-   "name": "0x2d9943d20930ec59d7b432a0cf30521f8c0cc016",
-   "source": "alphapedia_en"
+   "address": "0x02a325be648570494afa7f7ada669d38bb39822b",
+   "name": "Panda Free Card",
+   "reason": "label kuning",
+   "source": "mintradar"
   }
- ],
- "skipped": []
+ ]
 }
