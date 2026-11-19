@@ -1,8 +1,20 @@
 {
- "errors": [
-  "mintradar index: curl exit 28: curl: (28) Operation timed out after 25002 milliseconds with 0 bytes received"
+ "errors": [],
+ "new_green": [
+  {
+   "address": "0x2ac941b05042599edcc96cb7a3b4937102290ca7",
+   "label": "hijau",
+   "name": "Puzzle Arena Solve",
+   "source": "mintradar"
+  }
  ],
- "new_green": [],
  "new_unverified": [],
- "skipped": []
+ "skipped": [
+  {
+   "address": "0x126af9585953004cbb9c5a0b37fc5616dd5f3b43",
+   "name": "AgentBadge",
+   "reason": "label kuning",
+   "source": "mintradar"
+  }
+ ]
 }
