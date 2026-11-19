@@ -1,37 +1,19 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [
+ "new_unverified": [],
+ "skipped": [
   {
-   "address": "0x33df612106a92e44c594417c3cdcdbd44c545f7b",
-   "label": "unverified",
-   "name": "0x33df612106a92e44c594417c3cdcdbd44c545f7b",
-   "source": "alphapedia_en"
+   "address": "0xccd663253e201a02f77c68f7bf74a370c0d1a8ec",
+   "name": "Forge Miners",
+   "reason": "label kuning",
+   "source": "mintradar"
   },
   {
-   "address": "0x48f9373f0b62920cb34b63b18a84bd776a71b23a",
-   "label": "unverified",
-   "name": "0x48f9373f0b62920cb34b63b18a84bd776a71b23a",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x6e4bdb3c4b77fc8b7cdbd6782e7e831dd388d1f7",
-   "label": "unverified",
-   "name": "0x6e4bdb3c4b77fc8b7cdbd6782e7e831dd388d1f7",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xcf0daa1f7be7f01eed7fb48ff1837a1313f68bfa",
-   "label": "unverified",
-   "name": "0xcf0daa1f7be7f01eed7fb48ff1837a1313f68bfa",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xa4132e7a9b442f3c79b9f76a83914893bd706f67",
-   "label": "unverified",
-   "name": "0xa4132e7a9b442f3c79b9f76a83914893bd706f67",
-   "source": "agenticmint"
+   "address": "0x7de5ddd2e6cf0746935a983ea5621c8a4d081590",
+   "name": "TAPEX Miner",
+   "reason": "label merah",
+   "source": "mintradar"
   }
- ],
- "skipped": []
+ ]
 }
