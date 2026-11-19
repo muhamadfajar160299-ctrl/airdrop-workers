@@ -2,12 +2,5 @@
  "errors": [],
  "new_green": [],
  "new_unverified": [],
- "skipped": [
-  {
-   "address": "0x02a325be648570494afa7f7ada669d38bb39822b",
-   "name": "Panda Free Card",
-   "reason": "label kuning",
-   "source": "mintradar"
-  }
- ]
+ "skipped": []
 }
