@@ -3,10 +3,10 @@
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0x80cabb78d05205bb0f7c395ec6326bf1890e7a00",
+   "address": "0x2d9943d20930ec59d7b432a0cf30521f8c0cc016",
    "label": "unverified",
-   "name": "0x80cabb78d05205bb0f7c395ec6326bf1890e7a00",
-   "source": "alpha_board"
+   "name": "0x2d9943d20930ec59d7b432a0cf30521f8c0cc016",
+   "source": "alphapedia_en"
   }
  ],
  "skipped": []
