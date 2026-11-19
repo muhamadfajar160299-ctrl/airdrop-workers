@@ -1,18 +1,19 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [],
+ "new_unverified": [
+  {
+   "address": "0xbcf46551e08e36178a4421d282046a3e21ac2323",
+   "label": "unverified",
+   "name": "0xbcf46551e08e36178a4421d282046a3e21ac2323",
+   "source": "alphapedia_en"
+  }
+ ],
  "skipped": [
   {
-   "address": "0xccd663253e201a02f77c68f7bf74a370c0d1a8ec",
-   "name": "Forge Miners",
+   "address": "0xd7aa23e8a90542c7eb090d99496305a8855ff248",
+   "name": "MARIO",
    "reason": "label kuning",
-   "source": "mintradar"
-  },
-  {
-   "address": "0x7de5ddd2e6cf0746935a983ea5621c8a4d081590",
-   "name": "TAPEX Miner",
-   "reason": "label merah",
    "source": "mintradar"
   }
  ]
