@@ -1,6 +1,20 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [],
- "skipped": []
+ "new_unverified": [
+  {
+   "address": "0x0eb39713c32f9cf6f9120818e14a101d35aa2ac4",
+   "label": "unverified",
+   "name": "0x0eb39713c32f9cf6f9120818e14a101d35aa2ac4",
+   "source": "alphapedia_en"
+  }
+ ],
+ "skipped": [
+  {
+   "address": "0xf0681d5d5856981b6416ae3b059fd887f8efc967",
+   "name": "Lordhold",
+   "reason": "label kuning",
+   "source": "mintradar"
+  }
+ ]
 }
