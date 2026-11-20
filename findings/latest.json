@@ -1,6 +1,26 @@
 {
  "errors": [],
- "new_green": [],
+ "new_green": [
+  {
+   "address": "0x9347bc23e404386957029ad89aefc72b8b7365bc",
+   "label": "hijau",
+   "name": "sidecoo Check-in",
+   "source": "mintradar"
+  }
+ ],
  "new_unverified": [],
- "skipped": []
+ "skipped": [
+  {
+   "address": "0x4de656203a7c533148fabf15ce77a558b8f3cb79",
+   "name": "Wok Agent Badge",
+   "reason": "label kuning",
+   "source": "mintradar"
+  },
+  {
+   "address": "0x868f7135187ddfe1fe94e6a9711b3b17ae0fdd90",
+   "name": "GTA6 PUNK",
+   "reason": "label kuning",
+   "source": "mintradar"
+  }
+ ]
 }
