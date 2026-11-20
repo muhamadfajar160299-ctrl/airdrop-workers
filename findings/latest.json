@@ -1,38 +1,15 @@
 {
- "errors": [],
+ "errors": [
+  "agenticmint: curl exit 28: curl: (28) Operation timed out after 25000 milliseconds with 0 bytes received"
+ ],
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0x0bf44fa54a82ae425c58c114b9be5bd271bd82b0",
+   "address": "0xbb4d7f0dc10527478e83e264e8a86c3eba159570",
    "label": "unverified",
-   "name": "0x0bf44fa54a82ae425c58c114b9be5bd271bd82b0",
+   "name": "0xbb4d7f0dc10527478e83e264e8a86c3eba159570",
    "source": "alphapedia_en"
-  },
-  {
-   "address": "0x5a5d08c41f92e5c9b0d667dce9f47d05aa1c0a30",
-   "label": "unverified",
-   "name": "0x5a5d08c41f92e5c9b0d667dce9f47d05aa1c0a30",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xd5e04d58e7dce419b6531eaf62f7dfe93a4dcf3e",
-   "label": "unverified",
-   "name": "0xd5e04d58e7dce419b6531eaf62f7dfe93a4dcf3e",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xa3e0c0ffbdafa9e739dfff8334dca154b459e8b0",
-   "label": "unverified",
-   "name": "0xa3e0c0ffbdafa9e739dfff8334dca154b459e8b0",
-   "source": "alpha_board"
   }
  ],
- "skipped": [
-  {
-   "address": "0x09e9b9bff5df2931818ab731b10610de293a0dcf",
-   "name": "DRIXOR",
-   "reason": "label kuning",
-   "source": "mintradar"
-  }
- ]
+ "skipped": []
 }
