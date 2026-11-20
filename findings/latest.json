@@ -1,20 +1,15 @@
 {
- "errors": [],
- "new_green": [],
- "new_unverified": [
-  {
-   "address": "0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
-   "label": "unverified",
-   "name": "0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
-   "source": "alphapedia_en"
-  }
+ "errors": [
+  "agenticmint: curl exit 28: curl: (28) Operation timed out after 25001 milliseconds with 0 bytes received"
  ],
+ "new_green": [],
+ "new_unverified": [],
  "skipped": [
   {
-   "address": "0xb4139ecb4f897e891f768d2ab3b5c3a380ecdcd3",
-   "name": "Seolint Scan",
+   "address": "0x2d8a9369e39db81c7a27d4d5822e68db348856fb",
+   "name": "Borealux",
    "reason": "label kuning",
-   "source": "mintradar"
+   "source": "alphapedia_en"
   }
  ]
 }
