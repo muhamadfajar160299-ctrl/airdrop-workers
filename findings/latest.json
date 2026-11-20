@@ -1,6 +1,20 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [],
- "skipped": []
+ "new_unverified": [
+  {
+   "address": "0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
+   "label": "unverified",
+   "name": "0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
+   "source": "alphapedia_en"
+  }
+ ],
+ "skipped": [
+  {
+   "address": "0xb4139ecb4f897e891f768d2ab3b5c3a380ecdcd3",
+   "name": "Seolint Scan",
+   "reason": "label kuning",
+   "source": "mintradar"
+  }
+ ]
 }
