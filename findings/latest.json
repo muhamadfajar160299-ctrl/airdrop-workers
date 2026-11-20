@@ -1,13 +1,13 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [],
- "skipped": [
+ "new_unverified": [
   {
-   "address": "0xe71dc7bb9cb95fa6ee92c09a9d79a7c26b78eeaf",
-   "name": "Contextgraph Nodes",
-   "reason": "label kuning",
-   "source": "mintradar"
+   "address": "0x5690b34da3efc5d55511c37a0ad4988cace8d912",
+   "label": "unverified",
+   "name": "0x5690b34da3efc5d55511c37a0ad4988cace8d912",
+   "source": "alphapedia_en"
   }
- ]
+ ],
+ "skipped": []
 }
