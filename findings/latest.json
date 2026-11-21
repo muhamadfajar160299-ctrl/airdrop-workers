@@ -1,13 +1,19 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [],
- "skipped": [
+ "new_unverified": [
   {
-   "address": "0x461b8e3b161ab0b69aed422bc68afc7c4bfa7894",
-   "name": "Sepal",
-   "reason": "label merah",
-   "source": "mintradar"
+   "address": "0x31b532730ebaad7618901c442221919008996f35",
+   "label": "unverified",
+   "name": "0x31b532730ebaad7618901c442221919008996f35",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0x8a0ce5f45890590e7c1c59ad6cb9395b00781e28",
+   "label": "unverified",
+   "name": "0x8a0ce5f45890590e7c1c59ad6cb9395b00781e28",
+   "source": "alphapedia_en"
   }
- ]
+ ],
+ "skipped": []
 }
