@@ -3,18 +3,17 @@
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0x0eb39713c32f9cf6f9120818e14a101d35aa2ac4",
+   "address": "0xc3070c99c8ac6969f1b0fa33af0aaaa5e066dece",
    "label": "unverified",
-   "name": "0x0eb39713c32f9cf6f9120818e14a101d35aa2ac4",
+   "name": "0xc3070c99c8ac6969f1b0fa33af0aaaa5e066dece",
    "source": "alphapedia_en"
+  },
+  {
+   "address": "0x4fc2245eb165f7e41749f2f8cb50379dc5f01526",
+   "label": "unverified",
+   "name": "0x4fc2245eb165f7e41749f2f8cb50379dc5f01526",
+   "source": "agenticmint"
   }
  ],
- "skipped": [
-  {
-   "address": "0xf0681d5d5856981b6416ae3b059fd887f8efc967",
-   "name": "Lordhold",
-   "reason": "label kuning",
-   "source": "mintradar"
-  }
- ]
+ "skipped": []
 }
