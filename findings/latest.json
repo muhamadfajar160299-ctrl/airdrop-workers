@@ -1,20 +1,15 @@
 {
- "errors": [],
- "new_green": [
-  {
-   "address": "0x9dd6f32dd0df65fc0736ced0e7b7bfea30158b53",
-   "label": "hijau",
-   "name": "Kilnfold Rig",
-   "source": "mintradar"
-  }
+ "errors": [
+  "agenticmint: curl exit 28: curl: (28) Operation timed out after 25002 milliseconds with 0 bytes received"
  ],
- "new_unverified": [
+ "new_green": [],
+ "new_unverified": [],
+ "skipped": [
   {
-   "address": "0x1fc68a477d596bdfda54e1320409576f56c93693",
-   "label": "unverified",
-   "name": "0x1fc68a477d596bdfda54e1320409576f56c93693",
+   "address": "0xe52774b89b04d9c5882a058f0fc6880df4e75a23",
+   "name": "Mushbit",
+   "reason": "label kuning",
    "source": "alphapedia_en"
   }
- ],
- "skipped": []
+ ]
 }
