@@ -1,15 +1,13 @@
 {
- "errors": [
-  "agenticmint: curl exit 28: curl: (28) Operation timed out after 25002 milliseconds with 0 bytes received"
- ],
+ "errors": [],
  "new_green": [],
- "new_unverified": [],
- "skipped": [
+ "new_unverified": [
   {
-   "address": "0xe52774b89b04d9c5882a058f0fc6880df4e75a23",
-   "name": "Mushbit",
-   "reason": "label kuning",
+   "address": "0xdb514d1a00662fda0dc531a4cf69cd908b7e84a9",
+   "label": "unverified",
+   "name": "0xdb514d1a00662fda0dc531a4cf69cd908b7e84a9",
    "source": "alphapedia_en"
   }
- ]
+ ],
+ "skipped": []
 }
