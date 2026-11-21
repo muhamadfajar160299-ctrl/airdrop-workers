@@ -1,13 +1,6 @@
 {
  "errors": [],
- "new_green": [
-  {
-   "address": "0x9feb50ae2dba712a3f121f65f07be8802af39a5e",
-   "label": "hijau",
-   "name": "Ostrenne",
-   "source": "mintradar"
-  }
- ],
+ "new_green": [],
  "new_unverified": [],
  "skipped": []
 }
