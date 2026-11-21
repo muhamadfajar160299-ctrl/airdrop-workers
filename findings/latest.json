@@ -3,15 +3,9 @@
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0x31b532730ebaad7618901c442221919008996f35",
+   "address": "0x74f35b8315d76deaecb7034918325815458261a4",
    "label": "unverified",
-   "name": "0x31b532730ebaad7618901c442221919008996f35",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x8a0ce5f45890590e7c1c59ad6cb9395b00781e28",
-   "label": "unverified",
-   "name": "0x8a0ce5f45890590e7c1c59ad6cb9395b00781e28",
+   "name": "0x74f35b8315d76deaecb7034918325815458261a4",
    "source": "alphapedia_en"
   }
  ],
