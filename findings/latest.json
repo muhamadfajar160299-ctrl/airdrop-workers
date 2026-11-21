@@ -1,18 +1,20 @@
 {
- "errors": [],
+ "errors": [
+  "agenticmint: curl exit 28: curl: (28) Operation timed out after 25001 milliseconds with 0 bytes received"
+ ],
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0xc3070c99c8ac6969f1b0fa33af0aaaa5e066dece",
+   "address": "0x8f80d1183cd983b01b0c9ac6777cc732ec9800de",
    "label": "unverified",
-   "name": "0xc3070c99c8ac6969f1b0fa33af0aaaa5e066dece",
+   "name": "0x8f80d1183cd983b01b0c9ac6777cc732ec9800de",
    "source": "alphapedia_en"
   },
   {
-   "address": "0x4fc2245eb165f7e41749f2f8cb50379dc5f01526",
+   "address": "0x4a4e5b7e5f4a2cd2ffea8165d8ef60d6e931d17f",
    "label": "unverified",
-   "name": "0x4fc2245eb165f7e41749f2f8cb50379dc5f01526",
-   "source": "agenticmint"
+   "name": "0x4a4e5b7e5f4a2cd2ffea8165d8ef60d6e931d17f",
+   "source": "alpha_board"
   }
  ],
  "skipped": []
