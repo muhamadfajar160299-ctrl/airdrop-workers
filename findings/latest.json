@@ -1,20 +1,13 @@
 {
  "errors": [],
- "new_green": [
+ "new_green": [],
+ "new_unverified": [],
+ "skipped": [
   {
-   "address": "0xf467a5941f8dede54583754ac7448fb62ae0b9d4",
-   "label": "hijau",
-   "name": "Forecast League Early Pass",
+   "address": "0x43426e37a31aafdaba851858e34b81dc300650f8",
+   "name": "haha id",
+   "reason": "label merah",
    "source": "mintradar"
   }
- ],
- "new_unverified": [
-  {
-   "address": "0x2d15d60920f284e3e201ff59e916161799c83e2e",
-   "label": "unverified",
-   "name": "0x2d15d60920f284e3e201ff59e916161799c83e2e",
-   "source": "alphapedia_en"
-  }
- ],
- "skipped": []
+ ]
 }
