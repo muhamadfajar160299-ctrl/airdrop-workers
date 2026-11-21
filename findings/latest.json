@@ -2,5 +2,12 @@
  "errors": [],
  "new_green": [],
  "new_unverified": [],
- "skipped": []
+ "skipped": [
+  {
+   "address": "0x96a977ed9aef3599ef3ff01b226762aaba6d21ec",
+   "name": "AgentSaiyan",
+   "reason": "label kuning",
+   "source": "mintradar"
+  }
+ ]
 }
