@@ -1,11 +1,24 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [],
+ "new_unverified": [
+  {
+   "address": "0x0d8bff4dc1a5b1cb9df28f3a54302aba6c3b5488",
+   "label": "unverified",
+   "name": "0x0d8bff4dc1a5b1cb9df28f3a54302aba6c3b5488",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0x2a60aab19b182b5c4b47fffc066ada06ab27924f",
+   "label": "unverified",
+   "name": "0x2a60aab19b182b5c4b47fffc066ada06ab27924f",
+   "source": "alphapedia_en"
+  }
+ ],
  "skipped": [
   {
-   "address": "0xace2346c9026224c131b22921a54c6f01c82c5f5",
-   "name": "League Of Agent Login Pass",
+   "address": "0x9a433e02ae25da7dae95d4524004d15cce147e87",
+   "name": "Cubizens",
    "reason": "label kuning",
    "source": "mintradar"
   }
