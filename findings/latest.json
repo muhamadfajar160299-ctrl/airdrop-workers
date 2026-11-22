@@ -1,13 +1,25 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [],
- "skipped": [
+ "new_unverified": [
   {
-   "address": "0x7e2bd45cd95d6603f347c5310ee1ce9dd145c70b",
-   "name": "Antopia",
-   "reason": "label kuning",
-   "source": "mintradar"
+   "address": "0x8918082302cb4cc675f47771535a00c0b1ed41c2",
+   "label": "unverified",
+   "name": "0x8918082302cb4cc675f47771535a00c0b1ed41c2",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0xbb357eca84a438caaa3a8783d78edaa57b5d665d",
+   "label": "unverified",
+   "name": "0xbb357eca84a438caaa3a8783d78edaa57b5d665d",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0xd6c3285aeb95d2be2e6dba7ef08156b0a969edae",
+   "label": "unverified",
+   "name": "0xd6c3285aeb95d2be2e6dba7ef08156b0a969edae",
+   "source": "alphapedia_en"
   }
- ]
+ ],
+ "skipped": []
 }
