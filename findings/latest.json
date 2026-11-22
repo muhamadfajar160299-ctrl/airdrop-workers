@@ -1,19 +1,6 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [
-  {
-   "address": "0x6493003ae805be4a5e314a42ee94ff7fb8443631",
-   "label": "unverified",
-   "name": "0x6493003ae805be4a5e314a42ee94ff7fb8443631",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x661e3d0fc194e80402b9ba49c81f7889a3ba24ec",
-   "label": "unverified",
-   "name": "0x661e3d0fc194e80402b9ba49c81f7889a3ba24ec",
-   "source": "alphapedia_en"
-  }
- ],
+ "new_unverified": [],
  "skipped": []
 }
