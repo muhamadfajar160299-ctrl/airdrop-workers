@@ -1,32 +1,6 @@
 {
  "errors": [],
- "new_green": [
-  {
-   "address": "0x7de1ee0e8e2228d2b7826de5c9a330bf8107372c",
-   "label": "hijau",
-   "name": "Talvio Scan",
-   "source": "mintradar"
-  }
- ],
- "new_unverified": [
-  {
-   "address": "0xcf847e665fda6b39cf241e3805c5de0a37c7a0d1",
-   "label": "unverified",
-   "name": "0xcf847e665fda6b39cf241e3805c5de0a37c7a0d1",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xd0448e22f958f5a6b058c2fcf7c83cf77cc29a5a",
-   "label": "unverified",
-   "name": "0xd0448e22f958f5a6b058c2fcf7c83cf77cc29a5a",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xbf7b14c399d6a539974494f3ccf026cfc439fddf",
-   "label": "unverified",
-   "name": "0xbf7b14c399d6a539974494f3ccf026cfc439fddf",
-   "source": "alphapedia_zh"
-  }
- ],
+ "new_green": [],
+ "new_unverified": [],
  "skipped": []
 }
