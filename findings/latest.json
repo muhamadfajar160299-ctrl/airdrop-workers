@@ -1,15 +1,13 @@
 {
- "errors": [
-  "agenticmint: curl exit 28: curl: (28) Operation timed out after 25000 milliseconds with 0 bytes received"
- ],
+ "errors": [],
  "new_green": [],
- "new_unverified": [
+ "new_unverified": [],
+ "skipped": [
   {
-   "address": "0x2dfcbf18536a2eeceb9de691bd441c281c3397e2",
-   "label": "unverified",
-   "name": "0x2dfcbf18536a2eeceb9de691bd441c281c3397e2",
-   "source": "alpha_board"
+   "address": "0xace2346c9026224c131b22921a54c6f01c82c5f5",
+   "name": "League Of Agent Login Pass",
+   "reason": "label kuning",
+   "source": "mintradar"
   }
- ],
- "skipped": []
+ ]
 }
