@@ -3,24 +3,17 @@
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0x0d8bff4dc1a5b1cb9df28f3a54302aba6c3b5488",
+   "address": "0x921baa34f7a6a59dec4c8ab834c0a8103d259e5b",
    "label": "unverified",
-   "name": "0x0d8bff4dc1a5b1cb9df28f3a54302aba6c3b5488",
+   "name": "0x921baa34f7a6a59dec4c8ab834c0a8103d259e5b",
    "source": "alphapedia_en"
   },
   {
-   "address": "0x2a60aab19b182b5c4b47fffc066ada06ab27924f",
+   "address": "0x99d198978c19611a8b9be23551049d93cba9cbc9",
    "label": "unverified",
-   "name": "0x2a60aab19b182b5c4b47fffc066ada06ab27924f",
+   "name": "0x99d198978c19611a8b9be23551049d93cba9cbc9",
    "source": "alphapedia_en"
   }
  ],
- "skipped": [
-  {
-   "address": "0x9a433e02ae25da7dae95d4524004d15cce147e87",
-   "name": "Cubizens",
-   "reason": "label kuning",
-   "source": "mintradar"
-  }
- ]
+ "skipped": []
 }
