@@ -2,5 +2,12 @@
  "errors": [],
  "new_green": [],
  "new_unverified": [],
- "skipped": []
+ "skipped": [
+  {
+   "address": "0x7e2bd45cd95d6603f347c5310ee1ce9dd145c70b",
+   "name": "Antopia",
+   "reason": "label kuning",
+   "source": "mintradar"
+  }
+ ]
 }
