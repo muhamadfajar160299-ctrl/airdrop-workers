@@ -2,5 +2,12 @@
  "errors": [],
  "new_green": [],
  "new_unverified": [],
- "skipped": []
+ "skipped": [
+  {
+   "address": "0xe855485e338fce9f28cbefd28a39aab65acc890e",
+   "name": "YNT NFT",
+   "reason": "label merah",
+   "source": "mintradar"
+  }
+ ]
 }
