@@ -1,13 +1,19 @@
 {
  "errors": [],
- "new_green": [
+ "new_green": [],
+ "new_unverified": [
   {
-   "address": "0x5295169fce5d29f30de528f2b76983fd5260f57e",
-   "label": "hijau",
-   "name": "Electric Ride",
-   "source": "mintradar"
+   "address": "0xafbdd45e7a6719775a7909ba15eddf0f68f7df70",
+   "label": "unverified",
+   "name": "0xafbdd45e7a6719775a7909ba15eddf0f68f7df70",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0xea2fc84d8b87cb8cbcd27bda65761625bb7db678",
+   "label": "unverified",
+   "name": "0xea2fc84d8b87cb8cbcd27bda65761625bb7db678",
+   "source": "alphapedia_en"
   }
  ],
- "new_unverified": [],
  "skipped": []
 }
