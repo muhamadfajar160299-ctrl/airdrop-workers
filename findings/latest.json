@@ -1,6 +1,15 @@
 {
- "errors": [],
+ "errors": [
+  "agenticmint: curl exit 28: curl: (28) Operation timed out after 25001 milliseconds with 0 bytes received"
+ ],
  "new_green": [],
- "new_unverified": [],
+ "new_unverified": [
+  {
+   "address": "0xf21042c2c2103a237da09039696f490ef2b9902c",
+   "label": "unverified",
+   "name": "0xf21042c2c2103a237da09039696f490ef2b9902c",
+   "source": "alpha_board"
+  }
+ ],
  "skipped": []
 }
