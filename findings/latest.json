@@ -1,20 +1,6 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [
-  {
-   "address": "0x0dd35a2428c5b99bfc63150573df21270fd70311",
-   "label": "unverified",
-   "name": "0x0dd35a2428c5b99bfc63150573df21270fd70311",
-   "source": "alphapedia_en"
-  }
- ],
- "skipped": [
-  {
-   "address": "0x0780ce13d66fd84d675622f3da018479dd2ae41a",
-   "name": "Satsagents",
-   "reason": "label kuning",
-   "source": "mintradar"
-  }
- ]
+ "new_unverified": [],
+ "skipped": []
 }
