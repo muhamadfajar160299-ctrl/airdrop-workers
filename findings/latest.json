@@ -2,5 +2,12 @@
  "errors": [],
  "new_green": [],
  "new_unverified": [],
- "skipped": []
+ "skipped": [
+  {
+   "address": "0x86641a38d24dd42eb7d639bd1fc5bf7f66c19bf4",
+   "name": "Ghoulies",
+   "reason": "label merah",
+   "source": "alphapedia_en"
+  }
+ ]
 }
