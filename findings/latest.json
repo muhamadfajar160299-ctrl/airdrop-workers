@@ -1,13 +1,13 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [],
- "skipped": [
+ "new_unverified": [
   {
-   "address": "0xcb2be11420efbb51b19adc76732550d5d40a3e5f",
-   "name": "AGENTIC PIXELS",
-   "reason": "label kuning",
+   "address": "0xdf5eb50b6f05c99fed3c48973574f8dabc0ea1a2",
+   "label": "unverified",
+   "name": "0xdf5eb50b6f05c99fed3c48973574f8dabc0ea1a2",
    "source": "alphapedia_en"
   }
- ]
+ ],
+ "skipped": []
 }
