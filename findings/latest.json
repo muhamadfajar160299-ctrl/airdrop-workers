@@ -3,10 +3,34 @@
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0xdf5eb50b6f05c99fed3c48973574f8dabc0ea1a2",
+   "address": "0x1da9aa17e11502849648241a37bd11647e934da1",
    "label": "unverified",
-   "name": "0xdf5eb50b6f05c99fed3c48973574f8dabc0ea1a2",
+   "name": "0x1da9aa17e11502849648241a37bd11647e934da1",
    "source": "alphapedia_en"
+  },
+  {
+   "address": "0x47a803bd4e4c2076f4d2e7c0bc982954402eed84",
+   "label": "unverified",
+   "name": "0x47a803bd4e4c2076f4d2e7c0bc982954402eed84",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0x7a44b803efa67aca9c22306d659f0313d2029b51",
+   "label": "unverified",
+   "name": "0x7a44b803efa67aca9c22306d659f0313d2029b51",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0x7bb6ec2b16d89631cfdddd57df108b22a0df4694",
+   "label": "unverified",
+   "name": "0x7bb6ec2b16d89631cfdddd57df108b22a0df4694",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0x35005e6e1b3ec35419dc07e0ff3a6d6c96ad8266",
+   "label": "unverified",
+   "name": "0x35005e6e1b3ec35419dc07e0ff3a6d6c96ad8266",
+   "source": "alphapedia_zh"
   }
  ],
  "skipped": []
