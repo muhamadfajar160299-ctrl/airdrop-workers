@@ -3,24 +3,11 @@
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0xaaee81500638e3399f14cc067d5ddb5e429bd57e",
+   "address": "0x6fd54150178c653e267f48f4059d0d95014ba28d",
    "label": "unverified",
-   "name": "0xaaee81500638e3399f14cc067d5ddb5e429bd57e",
+   "name": "0x6fd54150178c653e267f48f4059d0d95014ba28d",
    "source": "alphapedia_en"
   }
  ],
- "skipped": [
-  {
-   "address": "0xf068cc171fb3c35ccd39ac5fbc03b33cf954dcfb",
-   "name": "\u8681\u5de2\u6218\u4e89 Ants",
-   "reason": "label merah",
-   "source": "mintradar"
-  },
-  {
-   "address": "0x3db83c288a0c7c91b31d855df079aca5763ac3ef",
-   "name": "DeadGrid",
-   "reason": "label kuning",
-   "source": "mintradar"
-  }
- ]
+ "skipped": []
 }
