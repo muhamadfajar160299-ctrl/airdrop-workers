@@ -1,12 +1,25 @@
 {
  "errors": [],
- "new_green": [],
+ "new_green": [
+  {
+   "address": "0xf8d546bf2cccbf32cb9ad78c81cc13b7e6e858ae",
+   "label": "hijau",
+   "name": "Polypline Polyp",
+   "source": "mintradar"
+  }
+ ],
  "new_unverified": [
   {
-   "address": "0xb3542c2eda4830383357db956d3433e36b96aec9",
+   "address": "0x30765c498ee2c619340b6c96f06ce62e663c7e95",
    "label": "unverified",
-   "name": "0xb3542c2eda4830383357db956d3433e36b96aec9",
-   "source": "agenticmint"
+   "name": "0x30765c498ee2c619340b6c96f06ce62e663c7e95",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0x3cdf19fef2a22c2013e838440d7d09b5225804c9",
+   "label": "unverified",
+   "name": "0x3cdf19fef2a22c2013e838440d7d09b5225804c9",
+   "source": "alphapedia_en"
   }
  ],
  "skipped": []
