@@ -3,35 +3,24 @@
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0x1da9aa17e11502849648241a37bd11647e934da1",
+   "address": "0xaaee81500638e3399f14cc067d5ddb5e429bd57e",
    "label": "unverified",
-   "name": "0x1da9aa17e11502849648241a37bd11647e934da1",
+   "name": "0xaaee81500638e3399f14cc067d5ddb5e429bd57e",
    "source": "alphapedia_en"
-  },
-  {
-   "address": "0x47a803bd4e4c2076f4d2e7c0bc982954402eed84",
-   "label": "unverified",
-   "name": "0x47a803bd4e4c2076f4d2e7c0bc982954402eed84",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x7a44b803efa67aca9c22306d659f0313d2029b51",
-   "label": "unverified",
-   "name": "0x7a44b803efa67aca9c22306d659f0313d2029b51",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x7bb6ec2b16d89631cfdddd57df108b22a0df4694",
-   "label": "unverified",
-   "name": "0x7bb6ec2b16d89631cfdddd57df108b22a0df4694",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x35005e6e1b3ec35419dc07e0ff3a6d6c96ad8266",
-   "label": "unverified",
-   "name": "0x35005e6e1b3ec35419dc07e0ff3a6d6c96ad8266",
-   "source": "alphapedia_zh"
   }
  ],
- "skipped": []
+ "skipped": [
+  {
+   "address": "0xf068cc171fb3c35ccd39ac5fbc03b33cf954dcfb",
+   "name": "\u8681\u5de2\u6218\u4e89 Ants",
+   "reason": "label merah",
+   "source": "mintradar"
+  },
+  {
+   "address": "0x3db83c288a0c7c91b31d855df079aca5763ac3ef",
+   "name": "DeadGrid",
+   "reason": "label kuning",
+   "source": "mintradar"
+  }
+ ]
 }
