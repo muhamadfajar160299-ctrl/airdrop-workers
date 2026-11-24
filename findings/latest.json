@@ -1,30 +1,11 @@
 {
  "errors": [],
- "new_green": [
-  {
-   "address": "0x621d4ee3bb6239fb6a14120433df94cd02538f69",
-   "label": "hijau",
-   "name": "Agent Passport",
-   "source": "mintradar"
-  }
- ],
+ "new_green": [],
  "new_unverified": [
   {
-   "address": "0xb904462778ac6206030bfb4f4542b29f421ea0b7",
+   "address": "0x30b6b8c67ab2239185536ba3766e8cb05bfd18ae",
    "label": "unverified",
-   "name": "0xb904462778ac6206030bfb4f4542b29f421ea0b7",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xeca36f31f96049ad2d1128db19f6d7c0f27ef3d9",
-   "label": "unverified",
-   "name": "0xeca36f31f96049ad2d1128db19f6d7c0f27ef3d9",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xdf31e312a9f6ea014feba0e43a96bc8ab86f5aa9",
-   "label": "unverified",
-   "name": "0xdf31e312a9f6ea014feba0e43a96bc8ab86f5aa9",
+   "name": "0x30b6b8c67ab2239185536ba3766e8cb05bfd18ae",
    "source": "alpha_board"
   }
  ],
