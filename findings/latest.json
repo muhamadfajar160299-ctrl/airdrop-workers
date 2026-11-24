@@ -2,25 +2,12 @@
  "errors": [],
  "new_green": [
   {
-   "address": "0xf8d546bf2cccbf32cb9ad78c81cc13b7e6e858ae",
+   "address": "0x065795d56e60087668a2a2ba5e247eadef914d8d",
    "label": "hijau",
-   "name": "Polypline Polyp",
+   "name": "sidecoo Lantern",
    "source": "mintradar"
   }
  ],
- "new_unverified": [
-  {
-   "address": "0x30765c498ee2c619340b6c96f06ce62e663c7e95",
-   "label": "unverified",
-   "name": "0x30765c498ee2c619340b6c96f06ce62e663c7e95",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x3cdf19fef2a22c2013e838440d7d09b5225804c9",
-   "label": "unverified",
-   "name": "0x3cdf19fef2a22c2013e838440d7d09b5225804c9",
-   "source": "alphapedia_en"
-  }
- ],
+ "new_unverified": [],
  "skipped": []
 }
