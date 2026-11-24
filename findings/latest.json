@@ -1,6 +1,13 @@
 {
  "errors": [],
- "new_green": [],
+ "new_green": [
+  {
+   "address": "0x564c4af8848705c3e9196cddef3a32663283bfeb",
+   "label": "hijau",
+   "name": "AGC\u5916\u5356\u4eba\u751f",
+   "source": "mintradar"
+  }
+ ],
  "new_unverified": [],
  "skipped": []
 }
