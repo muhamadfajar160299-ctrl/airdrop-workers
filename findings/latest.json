@@ -1,13 +1,13 @@
 {
  "errors": [],
- "new_green": [
+ "new_green": [],
+ "new_unverified": [
   {
-   "address": "0x564c4af8848705c3e9196cddef3a32663283bfeb",
-   "label": "hijau",
-   "name": "AGC\u5916\u5356\u4eba\u751f",
-   "source": "mintradar"
+   "address": "0xb3542c2eda4830383357db956d3433e36b96aec9",
+   "label": "unverified",
+   "name": "0xb3542c2eda4830383357db956d3433e36b96aec9",
+   "source": "agenticmint"
   }
  ],
- "new_unverified": [],
  "skipped": []
 }
