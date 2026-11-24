@@ -1,13 +1,13 @@
 {
  "errors": [],
- "new_green": [
+ "new_green": [],
+ "new_unverified": [
   {
-   "address": "0x065795d56e60087668a2a2ba5e247eadef914d8d",
-   "label": "hijau",
-   "name": "sidecoo Lantern",
-   "source": "mintradar"
+   "address": "0xc5d5cfa3faf883729fa70a68a40b53c8c3194a95",
+   "label": "unverified",
+   "name": "0xc5d5cfa3faf883729fa70a68a40b53c8c3194a95",
+   "source": "alphapedia_en"
   }
  ],
- "new_unverified": [],
  "skipped": []
 }
