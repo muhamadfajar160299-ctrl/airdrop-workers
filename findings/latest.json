@@ -1,6 +1,20 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [],
- "skipped": []
+ "new_unverified": [
+  {
+   "address": "0x0bf3cf8eeec4fe71305738c75aa9574a24ddf57b",
+   "label": "unverified",
+   "name": "0x0bf3cf8eeec4fe71305738c75aa9574a24ddf57b",
+   "source": "alphapedia_en"
+  }
+ ],
+ "skipped": [
+  {
+   "address": "0x369548923912d42f990a879e813547556a792d93",
+   "name": "BLACKSITE Fragments",
+   "reason": "label kuning",
+   "source": "mintradar"
+  }
+ ]
 }
