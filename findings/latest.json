@@ -1,13 +1,9 @@
 {
- "errors": [],
- "new_green": [],
- "new_unverified": [
-  {
-   "address": "0x0c4e3e87eb1194706822cc7074b4c229f1da0419",
-   "label": "unverified",
-   "name": "0x0c4e3e87eb1194706822cc7074b4c229f1da0419",
-   "source": "alphapedia_en"
-  }
+ "errors": [
+  "mintradar index: curl exit 28: curl: (28) Operation timed out after 25002 milliseconds with 9885 bytes received",
+  "agenticmint: curl exit 28: curl: (28) Operation timed out after 25002 milliseconds with 0 bytes received"
  ],
+ "new_green": [],
+ "new_unverified": [],
  "skipped": []
 }
