@@ -3,24 +3,11 @@
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0xad79fd020f0ff2ae5d423767b32c3e0efe557661",
+   "address": "0x3c34e1d8137db14a3e97c1b8f174cac66504070f",
    "label": "unverified",
-   "name": "0xad79fd020f0ff2ae5d423767b32c3e0efe557661",
-   "source": "alpha_board"
+   "name": "0x3c34e1d8137db14a3e97c1b8f174cac66504070f",
+   "source": "alphapedia_en"
   }
  ],
- "skipped": [
-  {
-   "address": "0x8858becfbeb380ce8d42bfd3ba1d17003b604a13",
-   "name": "Mivoo",
-   "reason": "label kuning",
-   "source": "mintradar"
-  },
-  {
-   "address": "0x0792c2357c188d9ae98fe3ee8f852fffaff8ad56",
-   "name": "RebelKids",
-   "reason": "label kuning",
-   "source": "mintradar"
-  }
- ]
+ "skipped": []
 }
