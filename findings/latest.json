@@ -1,19 +1,13 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [
+ "new_unverified": [],
+ "skipped": [
   {
-   "address": "0xc04e24223a337d07f02e028dafb98f60f4fdcfb8",
-   "label": "unverified",
-   "name": "0xc04e24223a337d07f02e028dafb98f60f4fdcfb8",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x135c1c1c7a67112f8b724e4d919fce061607bc61",
-   "label": "unverified",
-   "name": "0x135c1c1c7a67112f8b724e4d919fce061607bc61",
-   "source": "alpha_board"
+   "address": "0xbdd7db43bddb4cbe288c31a367a187b2cae1138a",
+   "name": "Agent X Robot",
+   "reason": "label kuning",
+   "source": "mintradar"
   }
- ],
- "skipped": []
+ ]
 }
