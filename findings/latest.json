@@ -1,27 +1,20 @@
 {
- "errors": [
-  "agenticmint: curl exit 28: curl: (28) Operation timed out after 25001 milliseconds with 0 bytes received"
- ],
+ "errors": [],
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0xbcc65c8693cdebcf934a38f7cb0287b2bd801f1d",
+   "address": "0xc1e0c9d327b3bb8bfdf4004c0cea6c413f9b10aa",
    "label": "unverified",
-   "name": "0xbcc65c8693cdebcf934a38f7cb0287b2bd801f1d",
+   "name": "0xc1e0c9d327b3bb8bfdf4004c0cea6c413f9b10aa",
    "source": "alphapedia_en"
-  },
-  {
-   "address": "0xc73ddcd3a25fd576f1e10b6e755f04c9fbdf51dd",
-   "label": "unverified",
-   "name": "0xc73ddcd3a25fd576f1e10b6e755f04c9fbdf51dd",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x5ded4639f24bf867234350d8a40f9fcbf3ed5cbb",
-   "label": "unverified",
-   "name": "0x5ded4639f24bf867234350d8a40f9fcbf3ed5cbb",
-   "source": "alpha_board"
   }
  ],
- "skipped": []
+ "skipped": [
+  {
+   "address": "0x9ba4b1a4c0519b5dd8f773d7757fa2e3dbc666e0",
+   "name": "Forge Keys",
+   "reason": "label kuning",
+   "source": "mintradar"
+  }
+ ]
 }
