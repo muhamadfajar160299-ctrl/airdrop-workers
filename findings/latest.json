@@ -1,13 +1,13 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [],
- "skipped": [
+ "new_unverified": [
   {
-   "address": "0xbdd7db43bddb4cbe288c31a367a187b2cae1138a",
-   "name": "Agent X Robot",
-   "reason": "label kuning",
-   "source": "mintradar"
+   "address": "0x03aeac6faa53b3cae19737dc00559696cf25349e",
+   "label": "unverified",
+   "name": "0x03aeac6faa53b3cae19737dc00559696cf25349e",
+   "source": "alphapedia_en"
   }
- ]
+ ],
+ "skipped": []
 }
