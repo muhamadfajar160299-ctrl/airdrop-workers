@@ -1,9 +1,20 @@
 {
- "errors": [
-  "mintradar index: curl exit 28: curl: (28) Operation timed out after 25002 milliseconds with 9885 bytes received",
-  "agenticmint: curl exit 28: curl: (28) Operation timed out after 25002 milliseconds with 0 bytes received"
- ],
+ "errors": [],
  "new_green": [],
- "new_unverified": [],
- "skipped": []
+ "new_unverified": [
+  {
+   "address": "0x0c25acf82acbcaa6ab33364ec4ad60b78a4f6644",
+   "label": "unverified",
+   "name": "0x0c25acf82acbcaa6ab33364ec4ad60b78a4f6644",
+   "source": "alphapedia_en"
+  }
+ ],
+ "skipped": [
+  {
+   "address": "0x82ec66f52ef42fb5842d8ee192e40e88f8178888",
+   "name": "BNBStone",
+   "reason": "label kuning",
+   "source": "mintradar"
+  }
+ ]
 }
