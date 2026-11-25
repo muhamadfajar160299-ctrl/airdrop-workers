@@ -1,20 +1,27 @@
 {
- "errors": [],
+ "errors": [
+  "agenticmint: curl exit 28: curl: (28) Operation timed out after 25001 milliseconds with 0 bytes received"
+ ],
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0x0bf3cf8eeec4fe71305738c75aa9574a24ddf57b",
+   "address": "0xbcc65c8693cdebcf934a38f7cb0287b2bd801f1d",
    "label": "unverified",
-   "name": "0x0bf3cf8eeec4fe71305738c75aa9574a24ddf57b",
+   "name": "0xbcc65c8693cdebcf934a38f7cb0287b2bd801f1d",
    "source": "alphapedia_en"
+  },
+  {
+   "address": "0xc73ddcd3a25fd576f1e10b6e755f04c9fbdf51dd",
+   "label": "unverified",
+   "name": "0xc73ddcd3a25fd576f1e10b6e755f04c9fbdf51dd",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0x5ded4639f24bf867234350d8a40f9fcbf3ed5cbb",
+   "label": "unverified",
+   "name": "0x5ded4639f24bf867234350d8a40f9fcbf3ed5cbb",
+   "source": "alpha_board"
   }
  ],
- "skipped": [
-  {
-   "address": "0x369548923912d42f990a879e813547556a792d93",
-   "name": "BLACKSITE Fragments",
-   "reason": "label kuning",
-   "source": "mintradar"
-  }
- ]
+ "skipped": []
 }
