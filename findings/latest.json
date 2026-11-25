@@ -2,5 +2,12 @@
  "errors": [],
  "new_green": [],
  "new_unverified": [],
- "skipped": []
+ "skipped": [
+  {
+   "address": "0xcc819bfcd4f649a425705c6a0219cd78920fc952",
+   "name": "Three Shape Fruits",
+   "reason": "label kuning",
+   "source": "mintradar"
+  }
+ ]
 }
