@@ -3,9 +3,21 @@
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0xe8e97fe8aeed26d08b79f8b49c2912d79644650e",
+   "address": "0xa85c24b8f5938acebe88f8353e071f432eba0620",
    "label": "unverified",
-   "name": "0xe8e97fe8aeed26d08b79f8b49c2912d79644650e",
+   "name": "0xa85c24b8f5938acebe88f8353e071f432eba0620",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0xd50dd4b4851446a23d17d87453d15a1a49cd03ae",
+   "label": "unverified",
+   "name": "0xd50dd4b4851446a23d17d87453d15a1a49cd03ae",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0xdd127f91943c8a406a1e6577a9313526d950b99e",
+   "label": "unverified",
+   "name": "0xdd127f91943c8a406a1e6577a9313526d950b99e",
    "source": "alphapedia_en"
   }
  ],
