@@ -1,13 +1,13 @@
 {
  "errors": [],
- "new_green": [
+ "new_green": [],
+ "new_unverified": [
   {
-   "address": "0xed4d84a891ea97aab5d412cd36035dd7aa7bf2b9",
-   "label": "hijau",
-   "name": "AgentVouch Badge",
-   "source": "mintradar"
+   "address": "0xb93709bc8cd41117d99a8e49cdbb542d2ca9bbe2",
+   "label": "unverified",
+   "name": "0xb93709bc8cd41117d99a8e49cdbb542d2ca9bbe2",
+   "source": "agenticmint"
   }
  ],
- "new_unverified": [],
  "skipped": []
 }
