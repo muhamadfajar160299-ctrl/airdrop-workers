@@ -1,19 +1,13 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [
+ "new_unverified": [],
+ "skipped": [
   {
-   "address": "0x0cc2646a720d8541c85ba91ac4161d9f60c37777",
-   "label": "unverified",
-   "name": "0x0cc2646a720d8541c85ba91ac4161d9f60c37777",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xcb0e68f80a0628f3bf7d2adce76ed9b23f5e4724",
-   "label": "unverified",
-   "name": "0xcb0e68f80a0628f3bf7d2adce76ed9b23f5e4724",
-   "source": "alphapedia_en"
+   "address": "0x91524e684d3ac878ac6048dbec2657db1e40314a",
+   "name": "KEYPOT",
+   "reason": "label kuning",
+   "source": "mintradar"
   }
- ],
- "skipped": []
+ ]
 }
