@@ -3,23 +3,24 @@
  "new_green": [],
  "new_unverified": [
   {
-   "address": "0xa85c24b8f5938acebe88f8353e071f432eba0620",
+   "address": "0xda251233ec05601a450cb7fa499d3e4541b24d3d",
    "label": "unverified",
-   "name": "0xa85c24b8f5938acebe88f8353e071f432eba0620",
-   "source": "alphapedia_en"
+   "name": "0xda251233ec05601a450cb7fa499d3e4541b24d3d",
+   "source": "alphapedia_zh"
   },
   {
-   "address": "0xd50dd4b4851446a23d17d87453d15a1a49cd03ae",
+   "address": "0x30e24789ab5ce4bd44e4d59487d417ef304fa6bd",
    "label": "unverified",
-   "name": "0xd50dd4b4851446a23d17d87453d15a1a49cd03ae",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xdd127f91943c8a406a1e6577a9313526d950b99e",
-   "label": "unverified",
-   "name": "0xdd127f91943c8a406a1e6577a9313526d950b99e",
-   "source": "alphapedia_en"
+   "name": "0x30e24789ab5ce4bd44e4d59487d417ef304fa6bd",
+   "source": "alpha_board"
   }
  ],
- "skipped": []
+ "skipped": [
+  {
+   "address": "0xe3b35116e5f66a79413d3d0b4bcabcc105938f93",
+   "name": "Sonvia Music NFT",
+   "reason": "label kuning",
+   "source": "mintradar"
+  }
+ ]
 }
