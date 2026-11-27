@@ -1,6 +1,13 @@
 {
  "errors": [],
- "new_green": [],
+ "new_green": [
+  {
+   "address": "0xe9b08b54fa7eb715e2f658452df2b67dc736dea1",
+   "label": "hijau",
+   "name": "MINISAT GENESIS",
+   "source": "mintradar"
+  }
+ ],
  "new_unverified": [],
  "skipped": []
 }
