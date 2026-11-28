@@ -1,13 +1,19 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [],
- "skipped": [
+ "new_unverified": [
   {
-   "address": "0x26f88a5db4925e9afa35b1096fdd6dba09f056c6",
-   "name": "Haha Dog",
-   "reason": "label merah",
-   "source": "mintradar"
+   "address": "0xc6d2b2483ec93c15109fce43d21ac05919031655",
+   "label": "unverified",
+   "name": "0xc6d2b2483ec93c15109fce43d21ac05919031655",
+   "source": "alphapedia_en"
+  },
+  {
+   "address": "0xe675a290a14a3ff307f767c7826bbced22405ff4",
+   "label": "unverified",
+   "name": "0xe675a290a14a3ff307f767c7826bbced22405ff4",
+   "source": "alphapedia_en"
   }
- ]
+ ],
+ "skipped": []
 }
