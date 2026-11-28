@@ -1,13 +1,6 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [
-  {
-   "address": "0x99992f60c91345c4ab62b7d07f36a83eddb3e6a7",
-   "label": "unverified",
-   "name": "0x99992f60c91345c4ab62b7d07f36a83eddb3e6a7",
-   "source": "agenticmint"
-  }
- ],
+ "new_unverified": [],
  "skipped": []
 }
