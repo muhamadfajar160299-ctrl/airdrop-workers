@@ -2,5 +2,12 @@
  "errors": [],
  "new_green": [],
  "new_unverified": [],
- "skipped": []
+ "skipped": [
+  {
+   "address": "0x758c9665747466ff4cba2a3714cc4e9f7c9324b6",
+   "name": "Neidroidjuan",
+   "reason": "label kuning",
+   "source": "alphapedia_en"
+  }
+ ]
 }
