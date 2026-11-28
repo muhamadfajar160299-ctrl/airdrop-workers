@@ -1,50 +1,6 @@
 {
  "errors": [],
- "new_green": [
-  {
-   "address": "0x84353b021713f0aee1819c82c2de7c5ae5170579",
-   "label": "hijau",
-   "name": "OrrisLatch Key",
-   "source": "mintradar"
-  }
- ],
- "new_unverified": [
-  {
-   "address": "0x52f0775e771af5871d12976652be218170f72885",
-   "label": "unverified",
-   "name": "0x52f0775e771af5871d12976652be218170f72885",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x54920ce121f9398e2e52efe3c6c2c114348d6608",
-   "label": "unverified",
-   "name": "0x54920ce121f9398e2e52efe3c6c2c114348d6608",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x6c6f748633751b9da60140c845422efb389d7503",
-   "label": "unverified",
-   "name": "0x6c6f748633751b9da60140c845422efb389d7503",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0x8a3fbe00dcf65a88660d8fb3ff113a9d57f26a42",
-   "label": "unverified",
-   "name": "0x8a3fbe00dcf65a88660d8fb3ff113a9d57f26a42",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xba565b826872c18af7163336b5abcd38a1551c66",
-   "label": "unverified",
-   "name": "0xba565b826872c18af7163336b5abcd38a1551c66",
-   "source": "alphapedia_en"
-  },
-  {
-   "address": "0xddac1d3bcb3c1e2ec8e13abfcd314d0fa31ba24a",
-   "label": "unverified",
-   "name": "0xddac1d3bcb3c1e2ec8e13abfcd314d0fa31ba24a",
-   "source": "alphapedia_en"
-  }
- ],
+ "new_green": [],
+ "new_unverified": [],
  "skipped": []
 }
