@@ -1,6 +1,13 @@
 {
  "errors": [],
  "new_green": [],
- "new_unverified": [],
+ "new_unverified": [
+  {
+   "address": "0xa5ed4454479504891f49d61066d09d6ce16bdebf",
+   "label": "unverified",
+   "name": "0xa5ed4454479504891f49d61066d09d6ce16bdebf",
+   "source": "alpha_board"
+  }
+ ],
  "skipped": []
 }
