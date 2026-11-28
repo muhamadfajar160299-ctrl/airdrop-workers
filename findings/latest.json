@@ -2,5 +2,12 @@
  "errors": [],
  "new_green": [],
  "new_unverified": [],
- "skipped": []
+ "skipped": [
+  {
+   "address": "0x26f88a5db4925e9afa35b1096fdd6dba09f056c6",
+   "name": "Haha Dog",
+   "reason": "label merah",
+   "source": "mintradar"
+  }
+ ]
 }
